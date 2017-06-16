@@ -13,8 +13,6 @@
     * [申请](articles/approval/3-1/m.md)
     * [审批](articles/approval/3-1/n.md)
     * [个人中心](articles/approval/3-1/o.md)
-
-
   * [接入友空间](articles/approval/3-/p.md)
   * [接入钉钉端](articles/approval/3-/q.md)
 
