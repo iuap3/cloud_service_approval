@@ -24,13 +24,6 @@
 * [SDK参考](articles/approval/6-/)
 
  
-* [微信端](articles/approval/3-/j.md)
-  * [关注公众号](articles/approval/3-/k.md)
-  * [注册和登录](articles/approval/3-/l.md)
-  * [申请](articles/approval/3-/m.md)
-  * [审批](articles/approval/3-/n.md)
-  * [个人中心](articles/approval/3-/o.md)
-
 * [云审批管理端简介](articles/approval/2-/two.md) 
  * [用户注册](articles/approval/2-/y.md) 
  * [用户登录](articles/approval/2-/c.md) 

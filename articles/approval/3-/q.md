@@ -7,15 +7,15 @@
 
 2、手机端下载钉钉app后登录，在钉钉点击扫一扫，扫描下面的二维码，给企业授权云审批微应用的权限，如下；
 
-![](/articles/approval/5-/images/image68.png)
+![](/articles/approval/3-/images/image68.png)
 
 3、授权过程如下：
 
-![](/articles/approval/5-/images/image69.png)
+![](/articles/approval/3-/images/image69.png)
 
-![](/articles/approval/5-/images/image70.png)
+![](/articles/approval/3-/images/image70.png)
 
-![](/articles/approval/5-/images/image71.png)
+![](/articles/approval/3-/images/image71.png)
 
 4、授权成功后即可在该企业中看到云审批的应用了，点击进去即可体验使用了；
 
