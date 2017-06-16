@@ -8,6 +8,13 @@
 * [操作手册](articles/approval/3-/)
   * [云审批管理端](articles/approval/3-/two.md) 
   * [微信端](articles/approval/3-/j.md)
+    * [关注公众号](articles/approval/3-1/k.md)
+    * [注册和登录](articles/approval/3-1/l.md)
+    * [申请](articles/approval/3-1/m.md)
+    * [审批](articles/approval/3-1/n.md)
+    * [个人中心](articles/approval/3-1/o.md)
+
+
   * [接入友空间](articles/approval/3-/p.md)
   * [接入钉钉端](articles/approval/3-/q.md)
 
