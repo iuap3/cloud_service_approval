@@ -25,7 +25,7 @@
   * [接入钉钉端](articles/approval/3-/q.md)
 
 * [产品常见问题](articles/approval/4-/)
- * [常见问题](articles/approval/4-/question.md)
+  * [常见问题](articles/approval/4-/question.md)
 
 * [API参考](articles/approval/5-/)
   * [概述](articles/approval/5-/gai_shu.md)
