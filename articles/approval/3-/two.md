@@ -5,6 +5,6 @@
 云审批管理端相当于流程的总控室，对系统中任务、业务、流程和模板的管理。在浏览器中输入url地址：https://ys.yyuap.com
 可通过鼠标滚动进行翻页查看云审批简介。
 
-![](/articles/approval/2-/images/image3.png)
+![](/articles/approval/3-/images/image3.png)
 
 图：云审批首页

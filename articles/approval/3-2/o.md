@@ -18,10 +18,10 @@
 
 可点击“注销用户”，注销当前登陆用户。
 
-![](/articles/approval/3-1/images/image60.png)
+![](/articles/approval/3-2/images/image60.png)
 
 ## 邀请
 
 可将二维码发送给朋友或朋友圈，邀请朋友加入到云审批系统。
 
-![](/articles/approval/3-1/images/image61.png)
+![](/articles/approval/3-2/images/image61.png)
