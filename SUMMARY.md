@@ -4,6 +4,15 @@
   * [产品介绍](articles/approval/1-/one.md)
 
 * [快速入门](articles/approval/2-/)
+  * [应用场景](articles/approval/2-/yingyongchangjing.md)
+  * [用户注册](articles/approval/2-/reg.md)
+  * [用户登录](articles/approval/2-/login.md)
+  * [组织机构](articles/approval/2-/org.md)
+  * [创建新流程](articles/approval/2-/new.md)
+  * [创建并发布使用流程的表单](articles/approval/2-/form.md)
+  * [设计流程](articles/approval/2-/design.md)
+  * [发布流程](articles/approval/2-/issue.md)
+  * [发起表单](articles/approval/2-/start.md)
 
 * [操作手册](articles/approval/3-/)
   * [云审批管理端](articles/approval/3-/two.md) 
