@@ -41,3 +41,6 @@
 
 * [SDK参考](articles/approval/6-/)
   * [引言](articles/approval/6-/yinyan.md)
+  * [SDK简介](articles/approval/6-/SDKjianjie.md)
+  * [SDK接口介绍](articles/approval/6-/SDKjiekoujieshao.md)
+
