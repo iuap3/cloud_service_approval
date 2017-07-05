@@ -1,4 +1,4 @@
-# Table of content
+﻿# Table of content
 
 * [产品介绍](articles/approval/1-/)
   * [产品介绍](articles/approval/1-/one.md)
@@ -40,4 +40,4 @@
   * [概述](articles/approval/5-/gai_shu.md)
 
 * [SDK参考](articles/approval/6-/)
-  * [概述](articles/approval/6-/gai_shu.md)
+  * [引言](articles/approval/6-/yinyan.md)
