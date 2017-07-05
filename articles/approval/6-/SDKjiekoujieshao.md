@@ -1,20 +1,17 @@
-## 1、编写目的
+## SDK接口介绍
 
-本文主要介绍了如何使用SDK，提供了接口以及方法的调用示例，以帮助开发人员更有效的提高开发工作。
+用友云审批SDK对外提供7大类接口
 
-
-
-## 2、术语解释
-
-REST：一种软件架构风格。针对网络应用的设计和开发方式，可以减低开发的复杂性，提高系统的可伸缩性
-
-
-
-## 3、系统介绍
-
-用友云审批是支持工作流和业务流程自动化的高性能平台。用友云审批的SDK是其中不可或缺的一部分，可以帮助开发者方便快速开发应用，还可以在不介入核心引擎的前提下，可以扩展平台对于应用的支持能力。
-
-
+|  | 接口名 | [yonyou](eclipse-javadoc:%E2%98%82=ubpm-rest-sdk/src%5C/main%5C/java%3Cyonyou).[bpm](eclipse-javadoc:%E2%98%82=ubpm-rest-sdk/src%5C/main%5C/java%3Cyonyou.bpm).[rest](eclipse-javadoc:%E2%98%82=ubpm-rest-sdk/src%5C/main%5C/java%3Cyonyou.bpm.rest).RestServices |
+| :--- | :--- | :--- |
+| **编号** | **方法名** | **功能说明** |
+| 1 | getIdentityService | 基础管理管理接口（租户、部门、用户组、用户） |
+| 2 | [getRepositoryService](I:ç¨åå·¥ä½æµææ¡£ææ°javadoc20150310docyonyoubpmrest......yonyoubpmrestRestServices.html#getRepositoryService%28%29) | 获取流程定义接口 |
+| 3 | [getRuntimeService](I:ç¨åå·¥ä½æµææ¡£ææ°javadoc20150310docyonyoubpmrest......yonyoubpmrestRestServices.html#getRuntimeService%28%29) | 流程的执行与控制服务 |
+| 4 | [getTaskService](I:ç¨åå·¥ä½æµææ¡£ææ°javadoc20150310docyonyoubpmrest......yonyoubpmrestRestServices.html#getTaskService%28%29) | 任务的执行与管理服务 |
+| 5 | [getHistoryService](I:ç¨åå·¥ä½æµææ¡£ææ°javadoc20150310docyonyoubpmrest......yonyoubpmrestRestServices.html#getHistoryService%28%29) | 获取流程历史接口 |
+| 6 | getFreeFlowService | 获取自由流接口 |
+| 7 | getCategoryService | 目录接口 |
 
 
 
