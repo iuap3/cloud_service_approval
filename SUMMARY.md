@@ -43,4 +43,12 @@
   * [引言](articles/approval/6-/yinyan.md)
   * [SDK简介](articles/approval/6-/SDKjianjie.md)
   * [SDK接口介绍](articles/approval/6-/SDKjiekoujieshao.md)
+     * [获取接口的方法](articles/approval/6-/5-1.md)
+     * [基础管理管理接口（租户、部门、用户组、用户）](articles/approval/6-/5-2.md)
+     * [获取流程定义接口（GETPROCESSDEFINITIONS）](articles/approval/6-/5-3.md)
+     * [流程的执行与控制服务](articles/approval/6-/5-4.md)
+     * [任务的执行与管理服务](articles/approval/6-/5-5.md)
+     * [流程历史控制接口(HISTORYSERVICE)](articles/approval/6-/5-6.md)
+     * [自由流接口(FREEFLOWSERVICE)](articles/approval/6-/5-7.md)
+     * [目录接口(CATEGORYSERVICE)](articles/approval/6-/5-8.md)
 
