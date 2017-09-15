@@ -1,0 +1,32 @@
+{ 
+ "title": "云审批", 
+ "desc": "云审批云服务由支持微服务架构的流程微服务和流程微应用构成。微服务提供精化的SDK、Restful API和JS
+
+组件，支持的能力包括流程引擎、流程建模、自由流、流程监控、任务管理和流程集成。微应用基于H5技术提供互联网
+
+化的流程微应用，支持多平台嵌入，包括设计器、微信审批、钉钉审批和桌面审批。云审批架构的核心构件由运营中心
+
+、租户使用的流程中心、集成中心和流程引擎构成，支持桌面端、企业空间、微信端和钉钉端。", 
+ "list": [ 
+ { 
+ "title": "快速入门", 
+ "link": "#/md-build/cloud_service_approval/articles/approval/2-/yingyongchangjing.md", 
+ "desc": "本文应用场景操作流程开始，详解了注册和创建新流程的过程" 
+ }, 
+ { 
+ "title": "云审批管理端", 
+ "link": "#/md-build/cloud_service_approval/articles/approval/3-1/y.md", 
+ "desc": "讲解了用户注册开始到BPM后台管理的过程" 
+ }, 
+ { 
+ "title": "微信端", 
+ "link": "#/md-build/cloud_service_approval/articles/approval/3-2/k.md", 
+ "desc": "讲解了微信公众号、注册登录、申请审批和个人中心的详细流程" 
+ }, 
+ { 
+ "title": "接入钉钉端", 
+ "link": "#/md-build/cloud_service_approval/articles/approval/3-/q.md", 
+ "desc": "讲解了钉钉端接入云审批的详细流程" 
+ }
+ ] 
+ } 
